@@ -3,17 +3,17 @@ p {
     font-family: "Verdana","DejaVu Sans",sans-serif;
 }
 
-#002 {
+#man {
     color:blue;
-    font-size: 36;
+    font-size: 36px;
 }
 
-#003 {
-    font-size: 24;
+#cool {
+    font-size: 24px;
 }
 
-#004 {
-    font-size: 24;
+#dude {
+    font-size: 24px;
     background-color: lightgreen;
     font-weight: bold;
 }
